@@ -59,7 +59,7 @@ The app integrates **Reown AppKit** for connection via WalletConnect, with `Wagm
 - ✅ **Daily Check-in** (one free, gas-sponsored action/day if possible)
 - 🔜 **Badges** section with compact guides (Base-aligned copy)
 - 🔜 **Creator/Builder Score** helper (Talent Protocol)
-- 🔜 Optional rewards in **$wenaltszn** for streaks/ships
+- 🔜 rewards in **$wenaltszn** for streaks/ships
 
 ## Local dev
 
